@@ -51,11 +51,11 @@ div {
     text-align: center;
     font-weight: bold;
     border-style: solid;
-    border-bottom-color: lightslategray;
+    border-bottom-color: grey;
     border-top-width: 0;
     border-right-width: 0;
     border-left-width: 0;
-    border-bottom-width: 0.1em;
+    border-bottom-width: 1px;
 }
 
 h1 {
