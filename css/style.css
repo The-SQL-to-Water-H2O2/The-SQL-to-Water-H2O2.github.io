@@ -44,11 +44,11 @@ div {
 }
 
 .contents{
-    margin-left: 1em;
+    margin-right: 4em;
 }
 
 .Title {
-
+    font-weight: bold;
 }
 
 h1 {
