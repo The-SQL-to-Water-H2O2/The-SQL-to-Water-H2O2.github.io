@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    text-align: center;
+    margin-top: 1em;
+}
+
+p, h1, h2, h3 {
+    color: white;
+}
+
+footer {
+    margin-top: 20em;
+}
+
+div {
+    margin-top: 0.5em;
+}
