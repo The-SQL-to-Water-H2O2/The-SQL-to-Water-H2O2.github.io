@@ -24,8 +24,12 @@ div {
     object-fit: cover;
 }
 
+h1 {
+    font-size: 3.5em; /*The size of the text*/
+}
+
 h2 {
-    font-size: 2em; /*The size of the text*/
+    font-size: 3em; /*The size of the text*/
 }
 
 p {
