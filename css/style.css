@@ -41,6 +41,7 @@ div {
     margin: 3em 0;
     border-radius: 15px;
     background-color: rgb(53, 54, 55);
+    box-shadow: 0.5em 0.5em 0.25em #1c1c1c;
 }
 
 .contents{
@@ -51,7 +52,7 @@ div {
     text-align: center;
     font-weight: bold;
     border-style: solid;
-    border-bottom-color: lightslategray;
+    border-bottom-color: rgb(62, 65, 65);
     border-top-width: 0;
     border-right-width: 0;
     border-left-width: 0;
@@ -62,6 +63,31 @@ div {
     font-size: 6em;
     border-top-width: 0.1em;
     border-right-width: 0.1em;
+    border-right-color: rgb(62, 65, 65);
+    border-left-width: 0.1em;
+}
+
+.nathan {
+    color: #c797f1;
+}
+
+.amitoj {
+    color: #4284e0;
+}
+
+.alex {
+    color: #42e04f;
+}
+
+.james {
+    color: #e4d936;
+}
+
+.team-name{
+    font-size: 3em;
+    border-top-width: 0.1em;
+    border-right-width: 0.1em;
+    border-right-color: rgb(62, 65, 65);
     border-left-width: 0.1em;
 }
 
