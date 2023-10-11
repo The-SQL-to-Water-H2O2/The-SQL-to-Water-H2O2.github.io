@@ -48,6 +48,7 @@ div {
 }
 
 .Title {
+    text-align: center;
     font-weight: bold;
     border-style: solid;
     border-bottom-color: lightslategray;
