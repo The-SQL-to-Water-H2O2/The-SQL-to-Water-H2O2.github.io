@@ -1,9 +1,0 @@
-/* Only add what changes from the default dark theme, this file will be loaded after the dark theme */
-
-body {
-    background-color: white;
-}
-
-p {
-    color: black;
-}
