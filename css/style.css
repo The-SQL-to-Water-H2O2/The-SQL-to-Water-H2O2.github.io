@@ -16,7 +16,7 @@ footer {
 }
 
 div {
-    margin-top: 2em; /*The space between divs relative to other elvments*/
+    margin-top: 2em; /*The space between divs relative to other elements*/
 }
 
 .avatar {
@@ -51,11 +51,18 @@ div {
     text-align: center;
     font-weight: bold;
     border-style: solid;
-    border-bottom-color: grey;
+    border-bottom-color: lightslategray;
     border-top-width: 0;
     border-right-width: 0;
     border-left-width: 0;
-    border-bottom-width: 1px;
+    border-bottom-width: 0.1em;
+}
+
+.title {
+    font-size: 6em;
+    border-top-width: 0.1em;
+    border-right-width: 0.1em;
+    border-left-width: 0.1em;
 }
 
 h1 {
