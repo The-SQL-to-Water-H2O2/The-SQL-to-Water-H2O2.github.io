@@ -49,6 +49,12 @@ div {
 
 .Title {
     font-weight: bold;
+    border-style: solid;
+    border-bottom-color: lightslategray;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-bottom-width: 0.1em;
 }
 
 h1 {
