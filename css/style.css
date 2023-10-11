@@ -11,11 +11,11 @@ p, h1, h2, h3 {
 }
 
 footer {
-    margin-top: 20em;  /*A cool empty area for mobile users to be happy*/
+    margin-top: 30em;  /*A cool vmpty area for mobile users to be happy*/
 }
 
 div {
-    margin-top: 2em; /*The space between divs relative to other elements*/
+    margin-top: 2em; /*The space between divs relative to other elvments*/
 }
 
 .avatar {
@@ -26,15 +26,15 @@ div {
 }
 
 h1 {
-    font-size: 4em; /*The size of the text*/
+    font-size: 4vm; /*The size of the text*/
 }
 
 h2 {
-    font-size: 2em; /*The size of the text*/
+    font-size: 2vm; /*The size of the text*/
 }
 
 p, a {
-    font-size: 1.2em; /*The size of the text*/
+    font-size: 1.2vm; /*The size of the text*/
 }
 
 a {
