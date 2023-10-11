@@ -32,6 +32,14 @@ h2 {
     font-size: 3em; /*The size of the text*/
 }
 
-p {
-    font-size: 1.5em; /*The size of the text*/
+p, a {
+    font-size: 1.2em; /*The size of the text*/
+}
+
+a {
+    color: lightskyblue; /*The colour of the links*/
+}
+
+a:hover {
+    color: lightblue; /*The colour of the links when hovered over*/
 }
