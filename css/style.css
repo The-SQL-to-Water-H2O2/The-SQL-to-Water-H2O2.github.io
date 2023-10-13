@@ -4,6 +4,7 @@ body {
     font-family: "Fira Code", sans-serif; /*Makes the font look real good*/
     margin-left: 20%;
     margin-right: 20%;
+    color: rgb(227, 227, 227);
 }
 
 p, h1, h2, h3, .list, li, h4 {
