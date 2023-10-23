@@ -11,6 +11,12 @@ p, h1, h2, h3, .list, li, h4 {
     color: rgb(227, 227, 227);  /*The text colour is toned down slightly from pure white due to medical issues with the eyes*/
 }
 
+img {
+    object-fit: cover;
+    width: 37.5em;
+    height: 30em;
+}
+
 footer {
     margin-top: 30em;  /*A cool empty area for mobile users to be happy*/
     text-align: center;
