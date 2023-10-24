@@ -3,7 +3,6 @@
 cd /home/archons/The-SQL-to-Water-H2O2.github.io
 
 while; do
-    sleep 20
     result=$(git status -uno)
 
     if [[ $result == *"Your branch is behind"* ]]; then
@@ -11,4 +10,5 @@ while; do
         git pull
         echo "Pulled successfully on $(date)"
     fi
+    sleep 20
 done
