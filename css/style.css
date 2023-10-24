@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(90deg, #314859 0%, #c7c7c7 100%);  /*background color*/
+  background: linear-gradient(90deg, #0B132B 0%, #3A506B 100%);  /*background color*/
     margin-top: 3em; /*Adds a margin for the top of the page*/
     font-family: "Fira Code", sans-serif; /*Makes the font look real good*/
     margin-left: 20%;
@@ -47,8 +47,8 @@ div {
     padding-left: 4em;
     margin: 3em 0;
     border-radius: 15px;
-    background-color: #314859;
-    opacity: 0.5;
+    background-color: #1C2541;
+    opacity: 0.7;
     box-shadow: 0.5em 0.5em 0.25em #1c1c1c;
 }
 
@@ -76,19 +76,19 @@ div {
 }
 
 .nathan {
-    color: #c797f1;
+    color: #16697A;
 }
 
 .amitoj {
-    color: #4284e0;
+    color: #489FB5;
 }
 
 .alex {
-    color: #42e04f;
+    color: #82C0CC;
 }
 
 .james {
-    color: #e4d936;
+    color: #EDE7E3;
 }
 
 .team-name{
@@ -112,9 +112,9 @@ p, a {
 }
 
 a {
-    color: lightskyblue; /*The colour of the links*/
+    color: #5BC0BE; /*The colour of the links*/
 }
 
 a:hover {
-    color: lightblue; /*The colour of the links when hovered over*/
+    color: #C3F5FF; /*The colour of the links when hovered over*/
 }
