@@ -3,6 +3,8 @@
 cd /home/archons/The-SQL-to-Water-H2O2.github.io
 
 while; do
+    git fetch
+
     result=$(git status -uno)
 
     if [[ $result == *"Your branch is behind"* ]]; then
