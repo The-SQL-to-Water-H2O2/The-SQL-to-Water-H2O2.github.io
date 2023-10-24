@@ -47,8 +47,8 @@ div {
     padding-left: 4em;
     margin: 3em 0;
     border-radius: 15px;
-    background-color: #82C0CC;
-    opacity: 0.2;
+    background-color: #003b46;
+    opacity: 0.5;
     box-shadow: 0.5em 0.5em 0.25em #1c1c1c;
 }
 
@@ -60,8 +60,8 @@ div {
     text-align: center;
     font-weight: bold;
     border-style: solid;
-    border-bottom-color: #82C0CC;
-    opacity: 0.2;
+    border-bottom-color: #1196b0;
+    opacity: 0.5;
     border-top-width: 0;
     border-right-width: 0;
     border-left-width: 0;
