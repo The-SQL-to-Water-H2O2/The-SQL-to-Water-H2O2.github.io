@@ -1,5 +1,7 @@
 #!/bin/zsh
 
+cd /home/archons/The-SQL-to-Water-H2O2.github.io
+
 while; do
     sleep 20
     result=$(git status -uno)
