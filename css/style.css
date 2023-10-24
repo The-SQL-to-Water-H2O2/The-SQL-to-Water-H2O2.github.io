@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(90deg, #0B132B 0%, #1C2541 100%);  /*background color*/
+  background: linear-gradient(90deg, #0B132B 0%, #39466e 100%);  /*background color*/
     margin-top: 3em; /*Adds a margin for the top of the page*/
     font-family: "Fira Code", sans-serif; /*Makes the font look real good*/
     margin-left: 20%;
@@ -47,9 +47,9 @@ div {
     padding-left: 4em;
     margin: 3em 0;
     border-radius: 15px;
-    background-color: #003b46;
-    opacity: 0.5;
-    box-shadow: 0.5em 0.5em 0.25em #1c1c1c;
+    background-color: #0B132B;
+    opacity: 0.4;
+    box-shadow: 0.5em 0.5em 0.25em #4965b9;
 }
 
 .contents{
@@ -60,7 +60,7 @@ div {
     text-align: center;
     font-weight: bold;
     border-style: solid;
-    border-bottom-color: #1196b0;
+    border-bottom-color: #0B132B;
     opacity: 0.5;
     border-top-width: 0;
     border-right-width: 0;
@@ -72,7 +72,7 @@ div {
     font-size: 6em;
     border-top-width: 0.1em;
     border-right-width: 0.1em;
-    border-right-color: rgb(62, 65, 65);
+    border-right-color: #152e78;
     border-left-width: 0.1em;
 }
 
@@ -96,7 +96,7 @@ div {
     font-size: 3em;
     border-top-width: 0.1em;
     border-right-width: 0.1em;
-    border-right-color: rgb(62, 65, 65);
+    border-right-color: #2b49a2;
     border-left-width: 0.1em;
 }
 
@@ -113,9 +113,9 @@ p, a {
 }
 
 a {
-    color: #C3F5FF; /*The colour of the links*/
+    color: #74baec; /*The colour of the links*/
 }
 
 a:hover {
-    color: #5BC0BE; /*The colour of the links when hovered over*/
+    color: #befffe; /*The colour of the links when hovered over*/
 }
