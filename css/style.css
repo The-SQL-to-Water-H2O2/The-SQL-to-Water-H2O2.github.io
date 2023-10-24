@@ -1,5 +1,5 @@
 body {
-    background: radial-gradient(circle at bottom, #314859 , #c7c7c7) /*Changes the colour of the background*/
+    background: radial-gradient(circle at bottom, #314859 , #c7c7c7); /*Changes the colour of the background*/
     margin-top: 3em; /*Adds a margin for the top of the page*/
     font-family: "Fira Code", sans-serif; /*Makes the font look real good*/
     margin-left: 20%;
