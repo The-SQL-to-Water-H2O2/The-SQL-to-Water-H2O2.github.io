@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(90deg, #0B132B 0%, #3A506B 100%);  /*background color*/
+  background: linear-gradient(90deg, #0B132B 0%, #1C2541 100%);  /*background color*/
     margin-top: 3em; /*Adds a margin for the top of the page*/
     font-family: "Fira Code", sans-serif; /*Makes the font look real good*/
     margin-left: 20%;
@@ -47,7 +47,7 @@ div {
     padding-left: 4em;
     margin: 3em 0;
     border-radius: 15px;
-    background-color: #1C2541;
+    background-color: #3A506B;
     opacity: 0.7;
     box-shadow: 0.5em 0.5em 0.25em #1c1c1c;
 }
