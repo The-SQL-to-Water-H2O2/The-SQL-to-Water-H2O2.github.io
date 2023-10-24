@@ -1,8 +1,5 @@
-#grad {
-  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
-}
-
 body {
+  background: linear-gradient(90deg, #314859 0%, #c7c7c7 100%);  /*background color*/
     margin-top: 3em; /*Adds a margin for the top of the page*/
     font-family: "Fira Code", sans-serif; /*Makes the font look real good*/
     margin-left: 20%;
