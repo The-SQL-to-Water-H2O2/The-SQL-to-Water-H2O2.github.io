@@ -47,7 +47,7 @@ div {
     padding-left: 4em;
     margin: 3em 0;
     border-radius: 15px;
-    background-color: #3A506B;
+    background-color: #82C0CC;
     opacity: 0.2;
     box-shadow: 0.5em 0.5em 0.25em #1c1c1c;
 }
@@ -60,7 +60,8 @@ div {
     text-align: center;
     font-weight: bold;
     border-style: solid;
-    border-bottom-color: rgb(62, 65, 65);
+    border-bottom-color: #82C0CC;
+    opacity: 0.2;
     border-top-width: 0;
     border-right-width: 0;
     border-left-width: 0;
@@ -112,9 +113,9 @@ p, a {
 }
 
 a {
-    color: #5BC0BE; /*The colour of the links*/
+    color: #C3F5FF; /*The colour of the links*/
 }
 
 a:hover {
-    color: #C3F5FF; /*The colour of the links when hovered over*/
+    color: #5BC0BE; /*The colour of the links when hovered over*/
 }
