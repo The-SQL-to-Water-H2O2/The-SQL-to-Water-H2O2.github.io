@@ -47,7 +47,8 @@ div {
     padding-left: 4em;
     margin: 3em 0;
     border-radius: 15px;
-    background: linear-gradient(90deg, #c7c7c7 0%, #314859 100%);
+    background-color: #314859;
+    opacity: 0.5;
     box-shadow: 0.5em 0.5em 0.25em #1c1c1c;
 }
 
