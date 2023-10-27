@@ -80,23 +80,27 @@ div {
 }
 
 .nathan {
-    color: #16697A;
-  font-size: 6em;
+   color: #16697A;
+  font-size: 3em;
+  text-align: center;
 }
 
 .amitoj {
-    color: #489FB5;
-  font-size: 6em;
+  color: #489FB5;
+  font-size: 3em;
+  text-align: center;
 }
 
 .alex {
-    color: #82C0CC;
-  font-size: 6em;
+   color: #82C0CC;
+  font-size: 3em;
+  text-align: center;
 }
 
 .james {
-    color: #EDE7E3;
-  font-size: 6em;
+   color: #EDE7E3;
+  font-size: 3em;
+  text-align: center;
 }
 
 .team-name{
