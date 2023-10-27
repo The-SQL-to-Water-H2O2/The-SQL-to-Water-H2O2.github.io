@@ -8,7 +8,11 @@ body {
 }
 
 p, h1, h2, h3, .list, li, h4 {
-    color: rgb(227, 227, 227);  /*The text colour is toned down slightly from pure white due to medical issues with the eyes*/
+    color: rgb(183, 214, 240);  /*The text colour is toned down slightly from pure white due to medical issues with the eyes*/
+}
+
+.super {
+    font-size: large;
 }
 
 img {
@@ -75,7 +79,7 @@ div {
     font-size: 6em;
     border-top-width: 0.1em;
     border-right-width: 0.1em;
-    border-right-color: #152e78;
+    border-right-color: #4965b9;
     border-left-width: 0.1em;
 }
 
@@ -124,9 +128,9 @@ p, a {
 }
 
 a {
-    color: #74baec; /*The colour of the links*/
+    color: #629cff; /*The colour of the links*/
 }
 
 a:hover {
-    color: #befffe; /*The colour of the links when hovered over*/
+    color: #ffffff; /*The colour of the links when hovered over*/
 }
