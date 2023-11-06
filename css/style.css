@@ -4,7 +4,7 @@ body {
     font-family: "Fira Code", sans-serif; /*Makes the font look real good*/
     margin-left: 20%;
     margin-right: 20%;
-    color: rgb(227, 227, 227);
+    color: rgb(227, 227, 227)
 }
 
 p, h1, h2, h3, .list, li, h4 {
@@ -12,7 +12,7 @@ p, h1, h2, h3, .list, li, h4 {
 }
 
 .super {
-    font-size: large;
+    font-size: 1.5em;
 }
 
 img {
@@ -61,6 +61,7 @@ div {
 
 .contents{
     margin-right: 4em;
+    font-size: 2em;
 }
 
 .Title {
@@ -73,6 +74,7 @@ div {
     border-right-width: 0;
     border-left-width: 0;
     border-bottom-width: 0.1em;
+    font-size: 2em;
 }
 
 .title {
