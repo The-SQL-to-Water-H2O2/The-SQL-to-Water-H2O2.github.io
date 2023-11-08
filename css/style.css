@@ -1,27 +1,20 @@
 body {
-  background: linear-gradient(90deg, #0B132B 0%, #39466e 100%);  /*background color*/
+    background-color:	#1e2124; /*Changes the colour of the background*/
     margin-top: 3em; /*Adds a margin for the top of the page*/
     font-family: "Fira Code", sans-serif; /*Makes the font look real good*/
     margin-left: 20%;
     margin-right: 20%;
-    color: rgb(227, 227, 227)
+    color: rgb(227, 227, 227);
 }
 
 p, h1, h2, h3, .list, li, h4 {
-    color: rgb(183, 214, 240);  /*The text colour is toned down slightly from pure white due to medical issues with the eyes*/
-}
-
-.super {
-    font-size: 1.5em;
+    color: rgb(227, 227, 227);  /*The text colour is toned down slightly from pure white due to medical issues with the eyes*/
 }
 
 img {
     object-fit: cover;
     width: 37.5em;
     height: 30em;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 footer {
@@ -54,66 +47,54 @@ div {
     padding-left: 4em;
     margin: 3em 0;
     border-radius: 15px;
-    background-color: #0B132B;
-    opacity: 0.4;
-    box-shadow: 0.5em 0.5em 0.25em #4965b9;
+    background-color: rgb(53, 54, 55);
+    box-shadow: 0.5em 0.5em 0.25em #1c1c1c;
 }
 
 .contents{
     margin-right: 4em;
-    font-size: 2em;
 }
 
 .Title {
     text-align: center;
     font-weight: bold;
     border-style: solid;
-    border-bottom-color: #0B132B;
-    opacity: 0.5;
+    border-bottom-color: rgb(62, 65, 65);
     border-top-width: 0;
     border-right-width: 0;
     border-left-width: 0;
     border-bottom-width: 0.1em;
-    font-size: 2em;
 }
 
 .title {
     font-size: 6em;
     border-top-width: 0.1em;
     border-right-width: 0.1em;
-    border-right-color: #4965b9;
+    border-right-color: rgb(62, 65, 65);
     border-left-width: 0.1em;
 }
 
 .nathan {
-   color: #16697A;
-  font-size: 2em;
-  text-align: center;
+    color: #c797f1;
 }
 
 .amitoj {
-  color: #489FB5;
-  font-size: 2em;
-  text-align: center;
+    color: #4284e0;
 }
 
 .alex {
-   color: #82C0CC;
-  font-size: 2em;
-  text-align: center;
+    color: #42e04f;
 }
 
 .james {
-   color: #EDE7E3;
-  font-size: 2em;
-  text-align: center;
+    color: #e4d936;
 }
 
 .team-name{
     font-size: 3em;
     border-top-width: 0.1em;
     border-right-width: 0.1em;
-    border-right-color: #2b49a2;
+    border-right-color: rgb(62, 65, 65);
     border-left-width: 0.1em;
 }
 
@@ -130,9 +111,9 @@ p, a {
 }
 
 a {
-    color: #629cff; /*The colour of the links*/
+    color: lightskyblue; /*The colour of the links*/
 }
 
 a:hover {
-    color: #ffffff; /*The colour of the links when hovered over*/
+    color: lightblue; /*The colour of the links when hovered over*/
 }
