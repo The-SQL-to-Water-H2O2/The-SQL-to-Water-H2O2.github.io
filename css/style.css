@@ -30,9 +30,9 @@ div {
 }
 
 .avatar {
-    width: 4em;
+    width: 6em;
     border-radius: 1em;
-    height: 4em;
+    height: 6em;
     object-fit: cover;
     margin-left: 0;
 }
