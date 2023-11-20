@@ -130,3 +130,8 @@ a:hover {
     width: auto;
     height: 20em;
 }
+
+#funnel_img {
+    width: 100%;
+    height: auto;
+}
