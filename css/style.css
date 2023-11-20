@@ -30,10 +30,11 @@ div {
 }
 
 .avatar {
-    width: 15em;
+    width: 4em;
     border-radius: 1em;
-    height: 15em;
+    height: 4em;
     object-fit: cover;
+    margin-left: 0;
 }
 
 .bio {
