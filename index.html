@@ -31,6 +31,12 @@
                     <p class="super"><a href="#resources">Resources</a></p>
                 </li>
                 <li>
+                    <p class="super"><a href="#summary">Game Summary</a></p>
+                </li>
+                <li>
+                    <p class="super"><a href="#strategy">Strategy</a></p>
+                </li>
+                <li>
                     <p class="super"><a href="#logs">Logs</a></p>
                     <ul>
                         <li><p><a href="#2023-10-11">2023-10-11</a></p></li>
@@ -99,6 +105,25 @@
                     <li><a target="_blank"href="https://www.youtube.com/watch?v=cqhVDuoY8ro">VEX IQ 97300J Pitching In Spitfire Robot Reveal</a></li>
                 </ol>
             </table>
+        </div>
+
+        <div id="summary">
+            <h2 class="Title">Game Summary</h2>
+            <img src="img/elevate_map.png" alt="Elevate Map" class="map"></img>
+
+            <p>The game we will be playing is called "Elevate". It is a game where two teams of two robots each compete. There are two phases in the game, autonomous and driver control. In autonomous, the goal is to cross the baseline, and to release the balls from the Auto Loader. In driver, the goal is to score balls into each team's own goals. Additionally, points are earned for each robot that hangs from the Elevate Bar by the end of the game.</p>
+        </div>
+
+        <div id="strategy">
+            <h2 class="Title">Strategy</h2>
+
+            <ul>
+                <li>Have one robot stay at the manual loading station to constantly shoot balls, while the other robot collects balls for the shooting robot, or shoot the balls they picked up</li>
+                <li>Using a lift system to score balls is inefficient because of the 5 ball limit, since it would take a long time to load just 5 balls.</li>
+                <li>If balls are shot fast enough, only one robot should elevate while the other gets more points, because a ranking point is awarded even if only one robot elevates, as long as 5 balls are released during autonomous</li>
+                <li>To avoid building a separate loading system for the auto loader, we should design a mechanism to drop the auto loader balls into the loading station for manual loading</li>
+                <li>Minimize the time wasted when transferring balls from the loading station and the human feeder with a bucket to put the balls in</li>
+            </ul>
         </div>
 
         <!-- keep the logs at the end of the website -->
