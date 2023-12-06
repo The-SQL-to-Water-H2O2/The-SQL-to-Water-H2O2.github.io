@@ -126,3 +126,12 @@ a:hover {
     margin-top: 2em;
 }
 
+.idea {
+    width: auto;
+    height: 20em;
+}
+
+#funnel_img {
+    width: 100%;
+    height: auto;
+}
