@@ -80,22 +80,22 @@ div {
 
 .nathan {
     color: #c797f1;
-    font-size: 2em;
+    font-size: 1.2em;
 }
 
 .amitoj {
     color: #4284e0;
-    font-size: 2em;
+    font-size: 1.2em;
 }
 
 .alex {
     color: #42e04f;
-    font-size: 2em;
+    font-size: 1.2em;
 }
 
 .james {
     color: #e4d936;
-    font-size: 2em;
+    font-size: 1.2em;
 }
 
 .team-name{
@@ -111,7 +111,7 @@ h1 {
 }
 
 h2 {
-    font-size: 2vm; /*The size of the text*/
+    font-size: 2.8em; /*The size of the text*/
 }
 
 
@@ -132,7 +132,7 @@ a:hover {
 }
 
 .log {
-    margin-top: 2em;
+    margin-top: 5em;
 }
 
 .idea {
